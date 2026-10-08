@@ -1,6 +1,7 @@
 {
   "name": "loom",
   "version": "0.1.0",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "description": "Workflow orchestration engine for multi-agent pipelines",
   "type": "module",
   "engines": {
